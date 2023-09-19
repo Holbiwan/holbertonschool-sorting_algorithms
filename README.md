@@ -1,6 +1,6 @@
 # **C - Sorting algorithms & Big O**
 
-![This is an image](https://zupimages.net/up/23/38/asrq.png)
+![This is an image](https://zupimages.net/up/23/38/mrcs.png)
 
 
 ## **Table of Contents**
@@ -29,7 +29,7 @@ The following sorting algorithms are included in this project:
 * You can explore each algorithm's file to understand its working and analyze its time complexity and space complexity.
 
 
-## **Taskss**
+## **Tasks**
 
 ### 0. Bubble sort - 0-bubble_sort.c, 0-O
 	Function that sorts an array of integers in ascending order using the Bubble sort algorithm.
