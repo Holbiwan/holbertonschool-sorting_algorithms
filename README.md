@@ -13,7 +13,8 @@
 
 ## **Introduction**
 
-Welcome to our project, where we delve into the world of C programming and sorting algorithms. In this endeavor, we harness the power of the C programming language to implement a variety of sorting algorithms. These algorithms play a crucial role in the efficient organization of data, be it numbers, names, or other information, into specific orders like ascending or descending sequences. Moreover, we explore the fascinating realm of Big O notation, which helps us measure and understand the efficiency of these sorting algorithms as they scale with increasing data sizes. Join us on this journey to uncover the elegance of C, the art of sorting, and the science of algorithmic efficiency.
+
+"Welcome to our project, where we explore C programming and how to arrange things in order. We use the C programming language to create different ways of sorting stuff, like numbers or names, so they're in the right order, like from small to big. We also check how fast these sorting ways work when we have more and more stuff to sort. It's like a journey to learn about C, sorting, and how to make things work better."
 
 
 ## **Sorting Algorithms**
