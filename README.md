@@ -1,8 +1,5 @@
 # **C - Sorting algorithms & Big O**
 
-![This is an image](https://zupimages.net/up/23/38/mrcs.png)
-
-
 ## **Table of Contents**
 
 - [Introduction](#introduction)
@@ -10,9 +7,10 @@
 - [Tasks](#Tasks)
 - [Authors](#Authors)
 
+![This is an image](https://zupimages.net/up/23/38/mrcs.png)
+
 
 ## **Introduction**
-
 
 "Welcome to our project, where we explore C programming and how to arrange things in order. We use the C programming language to create different ways of sorting stuff, like numbers or names, so they're in the right order, like from small to big. We also check how fast these sorting ways work when we have more and more stuff to sort. It's like a journey to learn about C, sorting, and how to make things work better."
 
@@ -31,6 +29,7 @@ The following sorting algorithms are included in this project:
 
 
 ## **Tasks**
+
 
 ### 0. Bubble sort - 0-bubble_sort.c, 0-O
 	Function that sorts an array of integers in ascending order using the Bubble sort algorithm.
